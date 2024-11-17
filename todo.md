@@ -1,0 +1,7 @@
+- [ ] Edit/Command modes
+- [ ] Run the program
+- [ ] Async lag while displaying terminal lines
+- [ ] Startup screen and sound
+- [ ] Settings (cursor, retro/lcd shader)
+- [ ] Remove file
+- [ ] Exit
